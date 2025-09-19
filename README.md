@@ -1,4 +1,4 @@
-## EXNO-3-DS
+![ds 3_page-0004](https://github.com/user-attachments/assets/4908a76f-0d5b-4c10-bad4-5f72b0ac49c1)![ds 3_page-0001](https://github.com/user-attachments/assets/fc91c02c-0f00-40ad-bfa7-226f63b8b380)## EXNO-3-DS
 
 # AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
@@ -31,8 +31,16 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
-# RESULT:
-       # INCLUDE YOUR RESULT HERE
+![ds 3_page-0006](https://github.com/user-attachments/assets/f85f016b-651c-45ab-9f8a-c73effb5dc31)
+![ds 3_page-0005](https://github.com/user-attachments/assets/155c9235-4dfe-4f57-af15-ce4646e75661)
+![ds 3_page-0004](https://github.com/user-attachments/assets/c3b01839-b748-42f5-a8f0-2de46b871fdd)
+![ds 3_page-0003](https://github.com/user-attachments/assets/a9055e05-b7f6-4def-baca-f0c6a12b11bd)
+![ds 3_page-0002](https://github.com/user-attachments/assets/07c4baaa-2e78-410f-a8f7-74d22f23c060)
+![ds 3_page-0001](https://github.com/user-attachments/assets/dcb5f12d-c88d-4a2b-a3b8-13e650967b91)
+![ds 3_page-0007](https://github.com/user-attachments/assets/0e96c737-9f30-4a88-b48b-8f4b264f5c3d)
+
+#RESULT:
+Output is verified
+
 
        
